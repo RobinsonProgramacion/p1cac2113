@@ -8,4 +8,5 @@ document.write("Gabriela Pacheco Sosa, ");
 document.write("Jorge Milia, ");
 document.write("AlvaroAltamirano, ");
 document.write("Maria Oses, ");
-document.write("Matias Ezequiel Romero ");
+document.write("Matias Ezequiel Romero, ");
+document.write("Patricio Balena ");
