@@ -12,8 +12,5 @@ document.write("Matias Ezequiel Romero, ");
 document.write("Patricio Balena ");
 document.write("María Eugenia Iglesias, ");
 document.write("Nadia Havlicek, ");
-<<<<<<< HEAD
+document.write("Maria Laura Godoy, ");
 document.write("Ignacio Kalaydjian Martinez, ");
-=======
-document.write("Luciano Adrian Flores, ");
->>>>>>> d02a36ce81c66fcb761bb752aac3345dc0e1ae5a
